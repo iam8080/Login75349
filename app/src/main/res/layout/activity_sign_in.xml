@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignIn">
+
+<!--    <View-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="620dp"-->
+<!--        android:background="#dfd5d9"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        android:background="#dfd5d5"
+
+        />
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="420dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="545dp"
+        android:src="@drawable/wave7ji"
+        />
+</RelativeLayout>
